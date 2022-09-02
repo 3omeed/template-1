@@ -7,7 +7,7 @@ HTML and CSS template 1 from Elzero-web-school
 
 
 
-screenshot: ![photo](Screenshot (70).png)
+screenshot: ![photo](https://github.com/3omeed/template-1/blob/main/images/Screenshot%20(70).png)
 
 
 
