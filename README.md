@@ -1,9 +1,8 @@
 #Web site template for responsive web development 
 
-made by HTML and CSS
---------------------
 
-HTML and CSS template 1 from Elzero-web-school
+
+HTML and CSS template 1 from Elzero-web-school made as training for HTML and CSS course 
 
 
 
