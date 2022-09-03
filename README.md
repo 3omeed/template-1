@@ -21,5 +21,6 @@ screenshot: ![photo](https://github.com/3omeed/template-1/blob/main/images/Scree
 
 links:
 ----
-live site [here]()    
+live site [here](https://3omeed.github.io/template-1/)    
+made by: [Abdelrahman Emad](https://www.linkedin.com/in/abdelrahman-emad-57bb10237/)
 
